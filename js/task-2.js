@@ -34,7 +34,7 @@
     }
   }
   
-  const vasaInformation = new Vasa({
+  const vasaInformation = new aboutVasa({
     vasaname: 'vasapro228',
     vasaage: '34',
     vasafollowers: '3284',
